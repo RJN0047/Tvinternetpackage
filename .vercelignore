@@ -1,0 +1,9 @@
+.agents
+.aws
+.codex
+.git
+tools
+*-check.json
+asset-restoration.json
+DEPLOYMENT.md
+webcopy-origin.txt

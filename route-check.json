@@ -1,0 +1,11 @@
+{
+  "checked": 205,
+  "failures": [
+    {
+      "url": "http://127.0.0.1:8080/wp-content/themes/nestnet/assets/img/img-after.png",
+      "kind": "asset",
+      "error": "HTTP Error 404: File not found"
+    }
+  ],
+  "existingHashPlaceholderLinks": 148
+}

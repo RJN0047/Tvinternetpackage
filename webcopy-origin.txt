@@ -1,0 +1,312 @@
+Uri: https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,600;0,700&family=Rajdhani:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800;1,900&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pa8FsOs.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\s\rajdhani\v17\LDI2apCSOBg7S-QT7pa8FsOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pb0EMOs.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\s\rajdhani\v17\LDI2apCSOBg7S-QT7pb0EMOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pbYF8Os.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\s\rajdhani\v17\LDI2apCSOBg7S-QT7pbYF8Os.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v17/LDIxapCSOBg7S-QT7q4A.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\s\rajdhani\v17\LDIxapCSOBg7S-QT7q4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\photo-1544197150-b99a580bb7a8
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\photo-1550751827-4bd374c3f58b
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\photo-1556740738-b6a63e27c4df
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1593784991095-a205069470b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\photo-1593784991095-a205069470b6
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1593784991095-a205069470b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\photo-1593784991095-a205069470b6-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1600861194942-f883de0dfe96?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\photo-1600861194942-f883de0dfe96
+Content Type: image/jpeg
+
+Uri: https://tvinternetpackage.com/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/about-us/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/att/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\att\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/comments/feed/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tvinternetpackage.com/contact-us/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/customer-service/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\customer-service\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/directv/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\directv\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/earthlink/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\earthlink\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/feed/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tvinternetpackage.com/get-a-new-connection/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\get-a-new-connection\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/internet-packages/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\internet-packages\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/switch-your-tv-internet-service/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\switch-your-tv-internet-service\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/tv-internet-services/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\tv-internet-services\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/tv-packages/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\tv-packages\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/t_n_c/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\t_n_c\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/wp-content/litespeed/css/bb45b3b5a06c0cb7d22516b57b708a57.css?ver=46a8a
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\litespeed\css\bb45b3b5a06c0cb7d22516b57b708a57.css
+Content Type: text/css
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-duotone-900.eot
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-duotone-900.eot?
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-duotone-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-duotone-900.woff
+Content Type: application/font-woff
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-light-300.woff
+Content Type: application/font-woff
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/bravis-addons/assets/libs/font-awesome-pro/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\bravis-addons\assets\libs\font-awesome-pro\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\fonts\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\fonts\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: application/font-woff
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff2
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff2
+Content Type: font/woff2
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://tvinternetpackage.com/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://tvinternetpackage.com/wp-content/uploads/2023/07/bg-home1.png
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\uploads\2023\07\bg-home1.png
+Content Type: image/png
+
+Uri: https://tvinternetpackage.com/wp-content/uploads/2023/07/icon.png
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\uploads\2023\07\icon.png
+Content Type: image/png
+
+Uri: https://tvinternetpackage.com/wp-content/uploads/2023/07/logo-1-150x150.png
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\uploads\2023\07\logo-1-150x150.png
+Content Type: image/png
+
+Uri: https://tvinternetpackage.com/wp-content/uploads/2023/07/logo-1-300x300.png
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-content\uploads\2023\07\logo-1-300x300.png
+Content Type: image/png
+
+Uri: https://tvinternetpackage.com/wp-json/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://tvinternetpackage.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftvinternetpackage.com%2F
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://tvinternetpackage.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftvinternetpackage.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://tvinternetpackage.com/wp-json/wp/v2/pages/20
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\wp-json\wp\v2\pages\20
+Content Type: application/json
+
+Uri: https://tvinternetpackage.com/xfinity/
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\xfinity\index.htm
+Content Type: text/html
+
+Uri: https://tvinternetpackage.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tvinternetpackage.com\xmlrpc.php
+Content Type: text/xml
+

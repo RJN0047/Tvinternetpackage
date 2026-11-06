@@ -1,0 +1,15 @@
+# Existing exported pages; do not route missing assets to the homepage.
+DirectoryIndex index.html index.htm index.php
+RewriteEngine On
+RewriteRule ^spectrum-tv/(?:index\.htm)?$ /spectrum/ [R=301,L]
+RewriteRule ^spectrum$ /spectrum/ [R=301,L]
+RewriteRule ^xfinity$ /xfinity/ [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+xfinity/index\.html?[?\s] [NC]
+RewriteRule ^xfinity/index\.html?$ /xfinity/ [R=301,L]
+RewriteCond %{THE_REQUEST} \s/+index\.htm[?\s] [NC]
+RewriteRule ^index\.htm$ / [R=301,L]
+RewriteRule ^spectrum/$ spectrum-tv/index.htm [END]
+
+<FilesMatch "^css2?$">
+  ForceType text/css
+</FilesMatch>

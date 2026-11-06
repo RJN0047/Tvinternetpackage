@@ -1,0 +1,58 @@
+[
+  {
+    "route": "/",
+    "interaction": null,
+    "title": "TV Internet Package",
+    "canonical": [
+      "https://tvinternetpackage.com/"
+    ],
+    "brokenImages": [],
+    "forms": [],
+    "jquery": "function",
+    "errors": [],
+    "failed": [
+      {
+        "url": "https://www.google.com/rmkt/collect/18046062574/?random=1793955049849&cv=11&fst=1793955049849&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b41v9252098357za208zd9252098357xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~119863601~120213116~120385423~120412528~120420416~120469145~120469153~121191153~121246026~121246034~123814185&u_w=800&u_h=600&url=http%3A%2F%2F127.0.0.1%3A8080%2F&rcb=9&frm=0&tiba=TV%20Internet%20Package&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1831483431.1793954884&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.39%7CChromium%3B155.0.8059.39%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+        "error": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=1&auid=1831483431.1793954884&dt=TV%20Internet%20Package&tid=AW-18046062574&en=page_view&dl=http%3A%2F%2F127.0.0.1%3A8080%2F&scrsrc=www.googletagmanager.com&rnd=375492839.1793955050&navt=n&npa=0&gtm=45be6b41v9252098357za208zd9252098357xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~119863601~120213116~120385423~120412528~120420416~120469145~120469153~121191153~121246026~121246034~123814185&tft=1793955049869&tfd=3082&_gsid=cw29Uy97UYCtvtU-85hVn9-9va0tnsV7vw&tids=AW-18046062574&fmt=8",
+        "error": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://ad.doubleclick.net/ccm/s/collect?_gsid=cw29Uy97UYCtvtU-85hVn9-9va0tnsV7vw&auid=1831483431.1793954884&gtm=45be6b41v9252098357za208zd9252098357xecxf1&fmt=8",
+        "error": "net::ERR_ABORTED"
+      }
+    ]
+  },
+  {
+    "route": "/spectrum/",
+    "interaction": {
+      "mobileMenuToggles": true
+    },
+    "title": "Spectrum Internet Plans | Fast & Affordable Internet",
+    "canonical": [
+      "https://tvinternetpackage.com/spectrum/"
+    ],
+    "brokenImages": [],
+    "forms": [],
+    "jquery": "function",
+    "errors": [],
+    "failed": []
+  },
+  {
+    "route": "/xfinity/",
+    "interaction": {
+      "mobileMenuToggles": true
+    },
+    "title": "Xfinity Internet from your Authorized Dealer is fast, reliable and secure.",
+    "canonical": [
+      "https://tvinternetpackage.com/xfinity/"
+    ],
+    "brokenImages": [],
+    "forms": [],
+    "jquery": "function",
+    "errors": [],
+    "failed": []
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/spectrum-tv",
+      "destination": "/spectrum/",
+      "permanent": true
+    },
+    {
+      "source": "/spectrum-tv/index.htm",
+      "destination": "/spectrum/",
+      "permanent": true
+    },
+    {
+      "source": "/index.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/xfinity/index.htm",
+      "destination": "/xfinity/",
+      "permanent": true
+    },
+    {
+      "source": "/xfinity/index.html",
+      "destination": "/xfinity/",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.htm"
+    },
+    {
+      "source": "/spectrum/",
+      "destination": "/spectrum-tv/index.htm"
+    },
+    {
+      "source": "/xfinity/",
+      "destination": "/xfinity/index.html"
+    },
+    {
+      "source": "/privacy-policy/",
+      "destination": "/privacy-policy/index.htm"
+    },
+    {
+      "source": "/contact-us/",
+      "destination": "/contact-us/index.htm"
+    },
+    {
+      "source": "/t_n_c/",
+      "destination": "/t_n_c/index.htm"
+    },
+    {
+      "source": "/internet-packages/",
+      "destination": "/internet-packages/index.htm"
+    },
+    {
+      "source": "/switch-your-tv-internet-service/",
+      "destination": "/switch-your-tv-internet-service/index.htm"
+    },
+    {
+      "source": "/att/",
+      "destination": "/att/index.htm"
+    },
+    {
+      "source": "/earthlink/",
+      "destination": "/earthlink/index.htm"
+    },
+    {
+      "source": "/tv-packages/",
+      "destination": "/tv-packages/index.htm"
+    },
+    {
+      "source": "/get-a-new-connection/",
+      "destination": "/get-a-new-connection/index.htm"
+    },
+    {
+      "source": "/customer-service/",
+      "destination": "/customer-service/index.htm"
+    },
+    {
+      "source": "/about-us/",
+      "destination": "/about-us/index.htm"
+    },
+    {
+      "source": "/tv-internet-services/",
+      "destination": "/tv-internet-services/index.htm"
+    },
+    {
+      "source": "/directv/",
+      "destination": "/directv/index.htm"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/css2",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/css; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/spectrum-tv/css",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/css; charset=utf-8"
+        }
+      ]
+    }
+  ],
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": "."
+}
